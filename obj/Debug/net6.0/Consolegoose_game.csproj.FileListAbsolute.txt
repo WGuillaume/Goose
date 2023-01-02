@@ -1,0 +1,15 @@
+C:\Users\mrkarasu\source\repos\goose\bin\Debug\net6.0\Consolegoose_game.exe
+C:\Users\mrkarasu\source\repos\goose\bin\Debug\net6.0\Consolegoose_game.deps.json
+C:\Users\mrkarasu\source\repos\goose\bin\Debug\net6.0\Consolegoose_game.runtimeconfig.json
+C:\Users\mrkarasu\source\repos\goose\bin\Debug\net6.0\Consolegoose_game.dll
+C:\Users\mrkarasu\source\repos\goose\bin\Debug\net6.0\Consolegoose_game.pdb
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.csproj.AssemblyReference.cache
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.AssemblyInfoInputs.cache
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.AssemblyInfo.cs
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.csproj.CoreCompileInputs.cache
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.dll
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\refint\Consolegoose_game.dll
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.pdb
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\Consolegoose_game.genruntimeconfig.cache
+C:\Users\mrkarasu\source\repos\goose\obj\Debug\net6.0\ref\Consolegoose_game.dll
